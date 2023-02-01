@@ -1,0 +1,29 @@
+body {
+  font-family: 'Inter', sans-serif;
+  font-family: 'Poppins', sans-serif;
+}
+h1 {
+  font-size: 50px;
+}
+
+.orange-color {
+  color: orange;
+}
+.half-width {
+  width: 40%;
+  padding-left: 10%;
+}
+.half-width img {
+  width: 80%;
+}
+section {
+  display: flex;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  padding: 10px 40px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+}
